@@ -18,7 +18,12 @@ uknowns. This also shows the primary users are male in both user types.
 
 ![pie chart](images/pie_chart.png) 
 
+The peak hours reflect the highest volume around 5pm and 6pm, with the primary user being male.
+
+![peak hours](images/peak_hours.png)
+
 #### *Results: Hourly usage based on Weekday*
+This shows the heaviest usage during the day between 6am and 7pm.
 
 ![trips by weekday](images/Trips_by_weekday.png)
 
@@ -39,6 +44,11 @@ Also reflected is the heaviest usage days for subscribers are Thursday and Frida
 is Saturday and Sunday
 
 ![Gender/user info](images/user_trips.png)
+
+#### Results based on location of rentals:
+This is a reflection of hot rental spots based on location. A visual representation of the heavy usage areas. 
+![start](images/starting_locations.png)
+![end](images/ending_locations.png)
 
 ## Analysis Summary: 
 
